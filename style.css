@@ -1,3 +1,27 @@
-#info {background-color: yellow;}
-#info li {margin-bottom: 15px;}
-#info li p { font-size: 14px; color: salmon;}
+body {
+  text-align: center;
+  background-color: tomato;
+}
+h1 {
+  background-color: gray;
+  font-size: 100px;
+  margin-top: 20px;
+}
+h2 {
+  background-color: dodgerblue;
+  font-size: 60px;
+  margin-bottom: 20px;
+}
+#info { 
+  background-color: yellow;
+}
+#info li {
+  margin-top: 15px;
+  list-style-type: none;
+}
+#info li p { 
+  font-size: 80px;
+  color: salmon;
+  text-align: center;
+}
+footer { text-align: center;}
